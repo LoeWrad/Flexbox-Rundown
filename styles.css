@@ -116,7 +116,17 @@ iframe {
 .section-four {
     background-color: darkslateblue;
     height: 500px;
-    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+figcaption {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: white;
 }
 
 /* section 5 media items */
